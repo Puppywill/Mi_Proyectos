@@ -1,0 +1,320 @@
+  /*  <!--  //--------------------------------------------- 
+     //File: TennisRegistro.html
+
+     // Programmer: William A.Rosado Pérez
+     // Estudent Number: Y00599400
+     //Descripion: La pagina de css de colores de la pagina
+ -->
+*/
+
+
+body{
+
+	background-image: url("../images/sneaker.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+h1{
+	font-family: Empirez;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 50px;
+
+	
+}
+
+h2{
+	font-family: Empirez;
+	
+	color: whitesmoke;
+	font-size: 10px;
+}
+
+
+p{
+	font-family: Empirez;
+	text-align: center;
+	color: ghostwhite;
+	font-size: 50px;
+}
+
+legend{
+	font-family: Empirez;
+	text-align: center;
+	color: ghostwhite;
+	border: 5px solid white;
+}
+fieldset{
+	background-color: grey;
+	width: 350px;
+	height: 700px;
+	margin:  0 auto;
+	
+
+
+}
+
+
+
+img{
+
+	width: 70px;
+	height: 50px;
+}
+
+table {
+	background-color: grey;
+	text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    
+    border: 5px solid white;
+	width: 400px;
+	height: 100px;
+
+
+}
+
+
+
+footer  {
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	border: 5px solid white;
+	width: 400px;
+	height: 290px;
+	 background: linear-gradient(45deg,red,grey,white);
+
+
+}
+
+.descip {
+color: white;
+margin: 0 auto;
+font-family:ariel ;
+
+}
+
+option{
+	color: white;
+	font-family: Empirez;
+	background-color: grey;
+}
+
+
+
+
+li{
+	padding-right: 0.5rem;
+}
+
+
+.container{
+	margin: 0 auto;
+}
+
+
+label{
+	font-family: Empirez;
+	color: white;
+}
+.card-text{
+	color: grey;
+	font-size: 12px;
+}
+.space{
+	width: 100px;
+	margin: 0 auto;
+}
+.form-check{
+	margin: 0 auto;
+}
+/*esto es la alerta del delete*/
+ #delete_alert .modal-header
+ {
+ 	background-color: red;
+ }
+
+ #delete_alert .modal-body
+ {
+     background-color: red;
+ }
+
+ #delete_alert 
+ {
+	 background-color:rgba(255, 0, 0, 0.5) ;
+	  color: white;
+ }
+
+#delete_alert   .modal-footer
+{
+	background-color: red;
+}
+
+
+/*Esto tirar error */
+ #alertaError .modal-header
+ {
+ 	background-color: red;
+ }
+
+ #alertaError .modal-body
+ {
+     background-color: red;
+ }
+
+ #alertaError 
+ {
+	 background-color:rgba(255, 0, 0, 0.5) ;
+	  color: white;
+ }
+
+
+#alertaCorrecta
+{
+	background-color:rgb(0,255,0) ;
+	  color: white;
+}
+
+#alertaCorrecta .modal-header
+ {
+ 	background-color: green;
+ }
+
+ #alertaCorrecta .modal-body
+ {
+     background-color: green;
+ }
+
+ #alertaCorrecta .modal-content 
+ {
+
+  background-color: green;
+ }
+/*navbar*/
+
+
+nav
+{
+background: linear-gradient(50deg,red,grey,grey,red);
+border:  5px white solid;
+text-align: center;
+margin: 0 auto;
+width: 550px;
+height: 80px;
+
+
+}
+
+
+.navbar-nav a
+{
+	color: white;
+}
+
+
+
+
+/*delete button */
+#delete_button 
+{
+	width: 70px;
+}
+
+/*Todos esto es el about*/
+.body_about
+{
+	background-image: url("../images/retro4.jpg");
+}
+
+
+.titulo h1
+{
+	font-family: Empirez;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 50px;
+	background-color: grey;
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid white;
+	width: 400px;
+	height: 100px;
+}
+
+.about p i
+{
+	font-size: 40px;
+
+}
+
+
+
+.card_contact
+{
+	background: linear-gradient(50deg,red,black,grey,red);
+	width: 600px;
+	margin: 0 auto;
+	height: 300px;
+
+}
+
+.card_contact img
+{
+	
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:initial;
+	height:300px;
+	float:left;
+
+}
+.card_contact p
+{
+	text-align: right auto;
+	font-size: 20px;
+
+
+}
+
+.parrafo p
+{
+	color: white;
+	font-size: 20px;
+ text-align: justify-all;
+	background: linear-gradient(50deg,red,black,grey,red);
+	width: 600px;
+
+	height: 580px;
+	 border: 5px solid white;
+
+}
+h3 hr
+{
+
+  border: 10px solid white;
+  border-radius: 5px;
+  width: 600px;
+
+
+}
+
+h3
+{
+
+font-size: 20px;
+color: white;
+text-align: center;
+
+}
+
+.laimagines img
+{
+	height: 80px;
+	
+}
+
