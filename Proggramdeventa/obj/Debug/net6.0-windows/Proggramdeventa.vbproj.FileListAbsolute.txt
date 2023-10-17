@@ -1,0 +1,17 @@
+C:\Users\willi\source\repos\Proggramdeventa\bin\Debug\net6.0-windows\Proggramdeventa.exe
+C:\Users\willi\source\repos\Proggramdeventa\bin\Debug\net6.0-windows\Proggramdeventa.deps.json
+C:\Users\willi\source\repos\Proggramdeventa\bin\Debug\net6.0-windows\Proggramdeventa.runtimeconfig.json
+C:\Users\willi\source\repos\Proggramdeventa\bin\Debug\net6.0-windows\Proggramdeventa.dll
+C:\Users\willi\source\repos\Proggramdeventa\bin\Debug\net6.0-windows\Proggramdeventa.pdb
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.Form1.resources
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.vbproj.GenerateResource.cache
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.AssemblyInfo.vb
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.vbproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.dll
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\refint\Proggramdeventa.dll
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.pdb
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.genruntimeconfig.cache
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\ref\Proggramdeventa.dll
+C:\Users\willi\source\repos\Proggramdeventa\obj\Debug\net6.0-windows\Proggramdeventa.Resources.resources
